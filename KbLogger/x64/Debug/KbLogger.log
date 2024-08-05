@@ -1,0 +1,23 @@
+﻿  Building 'KbLogger' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KbLogger.inf
+  Stamping [Version] section with DriverVer=08/02/2024,18.52.27.549
+C:\Users\rdavini\Documents\Projects\KbLogger\KbLogger\KbLogger.inf(24-24): warning 2083: Section [standard.ntamd64.10.0...16299] not referenced or used.
+  KbLogger.cpp
+  KbLogger.vcxproj -> C:\Users\rdavini\Documents\Projects\KbLogger\x64\Debug\KbLogger.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\rdavini\Documents\Projects\KbLogger\x64\Debug\KbLogger.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\rdavini\Documents\Projects\KbLogger\x64\Debug\KbLogger\kblogger.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\rdavini\Documents\Projects\KbLogger\x64\Debug\KbLogger\kblogger.cat
+  
